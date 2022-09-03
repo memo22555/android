@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application6</string>
+    <string name="result">الناتج</string>
+    <string name="price">سعر الكتاب</string>
+    <string name="five_percent">خصم %5</string>
+    <string name="ten_percent">خصم %10</string>
+    <string name="setTitle">Exit</string>
+    <string name="setmessage">are you sure to exit</string>
+    <string name="postivebtn">Yes</string>
+    <string name="negativebtn">No</string>
+</resources>
